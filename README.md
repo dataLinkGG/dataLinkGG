@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Thomas
+# Thomas Cionek
 
 💻 Full Stack Software Engineer from Brazil, building reliable systems for IoT and automation.  
 I work daily with **Python, React, PostgreSQL, and Docker**, focusing on scalable design, automation, and problem-solving.  
